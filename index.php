@@ -18,10 +18,10 @@
         <img src="IMG/Profile.jpg" width="350px" alt="" srcset="">
          <br>
         <br>
-        <button class='btn btn-primary'><i class="fab fa-algolia"></i></i></button>
-        <button class='btn btn-primary'><i class="fas fa-anchor"></i></i></i></button>      
-        <button class='btn btn-primary'><i class="fab fa-apple"></i></i></button>
-        <button class='btn btn-primary'><i class="fas fa-archway"></i></i></i></button>
+        <button class="btn btn-primary"><i class="fab fa-algolia"></i></i></button>
+        <button class="btn btn-primary"><i class="fas fa-anchor"></i></i></i></button>      
+        <button class="btn btn-primary"><i class="fab fa-apple"></i></i></button>
+        <button class="btn btn-primary"><i class="fas fa-archway"></i></i></i></button>
             <br>
         </center>
 
